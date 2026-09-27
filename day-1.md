@@ -3,6 +3,8 @@
 - Item 2
 - Item 3
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
@@ -27,3 +29,8 @@ git clone https://github.com/skills/communicate-using-markdown
 ```js
 var myVar = "Hello, world!";
 ```
+
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
+
+![Mona the Octocat](https://octodex.github.com/images/original.png)
